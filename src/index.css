@@ -1,0 +1,22 @@
+.content{
+  text-align: center;
+  width: 50%;
+  margin: 30px auto;
+  border: 1px solid #eeeeee;
+  padding: 20px;
+}
+.navbar-nav a:not(.nav-link){
+  margin: 10px;
+}
+.nav-link{
+  padding: 0;
+}
+.tab-content{
+  width: 50%;
+  margin: 10px auto;
+}
+.options{
+  border: 1px solid #dddd;
+  width: 50%;
+  margin: 20px auto;
+}
